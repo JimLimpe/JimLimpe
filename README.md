@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JimLimpe
 - 👀 I’m interested in web developement and databases
-- 🌱 Basic knowlege in C, C++, HTMLS/CSS and Python
+- 🌱 Basic knowlege in C, C++, HTMLS/CSS, Javascript and Python
 - 💞️ I’m looking to work as a junior developer, as a part of an experienced team, in order to evolve my skills.
 - 📫 How to reach me: limperis_dimitris@yahoo.com
 
