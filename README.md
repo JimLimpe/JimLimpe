@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JimLimpe
 - 👀 I’m interested in Front End Web Developement 
 - 🌱 Knowlege in  HTMLS/CSS & Javascript and a basic grasp of C, C++ and Python
-- 💞️ I’m looking for work as a junior developer and become a memeber of an experienced team, in order to evolve my skills.
+- 💞️ I’m looking for work as a junior developer and become a member of an experienced team, in order to evolve my skills
 - 📫 How to reach me: limperis_dimitris@yahoo.com
   
 - 👨🏼‍🎓 Favorite website for coding : FreeCodeCamp
